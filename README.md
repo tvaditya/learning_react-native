@@ -1,2 +1,2 @@
-# learning_react-native
+# Learning React Native
 Basics of react native
